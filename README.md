@@ -1,0 +1,2 @@
+# Ethereum_lottery_Solidity_Web3_Truffle_ABI_Remix
+This is the React side of the app without the SoIidity contract, Solidity smart contract will be added on next repository. I used remix for testing solidity. In this app people can send in ether and a random winnder gets picked. this app was tested on the rinkeby network. All tests are included with full notes. I take ALOT of notes so its almost like reading a book lol.
